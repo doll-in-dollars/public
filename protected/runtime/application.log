@@ -1,0 +1,52 @@
+2009/04/05 22:21:03 [error] [exception.CException] exception 'CException' with message 'SiteController cannot find the requested view "index".' in H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php:661
+Stack trace:
+#0 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(591): CController->renderPartial('index', NULL, true)
+#1 H:\ZendBETA\Apache2\htdocs\bbb\protected\controllers\SiteController.php(9): CController->render('index')
+#2 H:\ZendBETA\Apache2\htdocs\yii\framework\web\actions\CInlineAction.php(32): SiteController->actionIndex()
+#3 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(265): CInlineAction->run()
+#4 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(243): CController->runAction(Object(CInlineAction))
+#5 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(225): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CWebApplication.php(335): CController->run('')
+#7 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CWebApplication.php(123): CWebApplication->runController('')
+#8 H:\ZendBETA\Apache2\htdocs\yii\framework\base\CApplication.php(170): CWebApplication->processRequest()
+#9 H:\ZendBETA\Apache2\htdocs\bbb\index.php(11): CApplication->run()
+#10 {main} REQUEST_URI=/bbb/
+2009/04/05 22:21:18 [error] [exception.CException] exception 'CException' with message 'SiteController cannot find the requested view "index".' in H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php:661
+Stack trace:
+#0 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(591): CController->renderPartial('index', NULL, true)
+#1 H:\ZendBETA\Apache2\htdocs\bbb\protected\controllers\SiteController.php(9): CController->render('index')
+#2 H:\ZendBETA\Apache2\htdocs\yii\framework\web\actions\CInlineAction.php(32): SiteController->actionIndex()
+#3 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(265): CInlineAction->run()
+#4 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(243): CController->runAction(Object(CInlineAction))
+#5 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(225): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CWebApplication.php(335): CController->run('')
+#7 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CWebApplication.php(123): CWebApplication->runController('')
+#8 H:\ZendBETA\Apache2\htdocs\yii\framework\base\CApplication.php(170): CWebApplication->processRequest()
+#9 H:\ZendBETA\Apache2\htdocs\bbb\index.php(11): CApplication->run()
+#10 {main} REQUEST_URI=/bbb/
+2009/04/05 22:21:18 [error] [exception.CException] exception 'CException' with message 'SiteController cannot find the requested view "index".' in H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php:661
+Stack trace:
+#0 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(591): CController->renderPartial('index', NULL, true)
+#1 H:\ZendBETA\Apache2\htdocs\bbb\protected\controllers\SiteController.php(9): CController->render('index')
+#2 H:\ZendBETA\Apache2\htdocs\yii\framework\web\actions\CInlineAction.php(32): SiteController->actionIndex()
+#3 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(265): CInlineAction->run()
+#4 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(243): CController->runAction(Object(CInlineAction))
+#5 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(225): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CWebApplication.php(335): CController->run('')
+#7 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CWebApplication.php(123): CWebApplication->runController('')
+#8 H:\ZendBETA\Apache2\htdocs\yii\framework\base\CApplication.php(170): CWebApplication->processRequest()
+#9 H:\ZendBETA\Apache2\htdocs\bbb\index.php(11): CApplication->run()
+#10 {main} REQUEST_URI=/bbb/
+2009/04/05 22:21:19 [error] [exception.CException] exception 'CException' with message 'SiteController cannot find the requested view "index".' in H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php:661
+Stack trace:
+#0 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(591): CController->renderPartial('index', NULL, true)
+#1 H:\ZendBETA\Apache2\htdocs\bbb\protected\controllers\SiteController.php(9): CController->render('index')
+#2 H:\ZendBETA\Apache2\htdocs\yii\framework\web\actions\CInlineAction.php(32): SiteController->actionIndex()
+#3 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(265): CInlineAction->run()
+#4 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(243): CController->runAction(Object(CInlineAction))
+#5 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CController.php(225): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CWebApplication.php(335): CController->run('')
+#7 H:\ZendBETA\Apache2\htdocs\yii\framework\web\CWebApplication.php(123): CWebApplication->runController('')
+#8 H:\ZendBETA\Apache2\htdocs\yii\framework\base\CApplication.php(170): CWebApplication->processRequest()
+#9 H:\ZendBETA\Apache2\htdocs\bbb\index.php(11): CApplication->run()
+#10 {main} REQUEST_URI=/bbb/
