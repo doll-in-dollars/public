@@ -22,7 +22,9 @@
     <div class="row">
     <?php echo $message->label($model,'message'); ?>
     <?php echo $message->textField($model,'message') ?></div>
-    
+    <div class="row">
+    <?php echo $message->label($model,'message'); ?>
+    <?php echo $message->textField($model,'message') ?></div>
 <div class="row submit">
 <?php echo CHtml::submitButton('Send'); ?>
 </div>
